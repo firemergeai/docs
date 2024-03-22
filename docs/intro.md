@@ -3,6 +3,6 @@ sidebar_label: 'Introduction'
 sidebar_position: 1
 ---
 
-# Firemerge AI Documentation
+# Firemerge AI Tutorial
 
-Welcome to documentation
+Welcome to Tutorial
