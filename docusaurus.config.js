@@ -9,19 +9,19 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Firemerge AI',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Unify, Automate, Accelerate',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://learn.firemerge.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Firemerge', // Usually your GitHub org/user name.
+  projectName: 'firemerge', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Amraks Technologies Pvt. Ltd. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Amraks Technologies Pvt. Ltd. Documentation and Blog built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
